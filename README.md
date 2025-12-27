@@ -7,7 +7,7 @@ It is a stereo 3-band equalizer consiting of:
 + High cut filter
 
 The project utilizes JUCE's dsp module, Processor Chain, IIR filters, and AudioProcessorValueTree state. 
-I built this project to learn how EQ's work under the hood
+I built this project to learn how EQ's work under the hood.
 
 ## Features
 
