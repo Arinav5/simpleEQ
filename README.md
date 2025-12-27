@@ -30,6 +30,8 @@ SimpleEQ/
   + PluginEditor.h
   + PluginEditor.cpp
 + README.md
++ SimpleEQ.filtergraph
++ simpleEQ.jucer
 
 ## Requirements 
 + JUCE framework
