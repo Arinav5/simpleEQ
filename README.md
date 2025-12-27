@@ -23,15 +23,15 @@ I built this project to learn how EQ's work under the hood.
 + Response Curve display that shows the changes being heard
 
 ## Project Structure 
-SimpleEQ/
-+ Source/
-  + PluginProcessor.h
-  + PluginProcessor.cpp
-  + PluginEditor.h
-  + PluginEditor.cpp
-+ README.md
-+ SimpleEQ.filtergraph
-+ simpleEQ.jucer
++SimpleEQ/
+  + Source/
+    + PluginProcessor.h
+    + PluginProcessor.cpp
+    + PluginEditor.h
+    + PluginEditor.cpp
+  + README.md
+  + SimpleEQ.filtergraph
+  + simpleEQ.jucer
 
 ## Requirements 
 + JUCE framework
