@@ -24,13 +24,12 @@ I built this project to learn how EQ's work under the hood.
 
 ## Project Structure 
 SimpleEQ/
-├── Source/
-│   ├── PluginProcessor.h
-│   ├── PluginProcessor.cpp
-│   ├── PluginEditor.h
-│   └── PluginEditor.cpp
-├── SimpleEQ.jucer
-└── README.md
++ Source/
+  + PluginProcessor.h
+  + PluginProcessor.cpp
+  + PluginEditor.h
+  + PluginEditor.cpp
++ README.md
 
 ## Requirements 
 + JUCE framework
