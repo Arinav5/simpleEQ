@@ -22,6 +22,16 @@ I built this project to learn how EQ's work under the hood.
   + High-cut slope
 + Response Curve display that shows the changes being heard
 
+## Project Structure 
+SimpleEQ/
+├── Source/
+│   ├── PluginProcessor.h
+│   ├── PluginProcessor.cpp
+│   ├── PluginEditor.h
+│   └── PluginEditor.cpp
+├── SimpleEQ.jucer
+└── README.md
+
 ## Requirements 
 + JUCE framework
 + C++17
